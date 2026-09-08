@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "MDS quarto demo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nYou can use ‘quarto preview’ as you are working"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nYou can use quarto preview as you are working\ndon’t forget to render to docs and delete the _site default."
   }
 ]

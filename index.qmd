@@ -6,4 +6,6 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-You can use 'quarto preview' as you are working
+You can use `quarto preview` as you are working
+
+don't forget to render to docs and delete the _site default.
